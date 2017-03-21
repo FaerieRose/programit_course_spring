@@ -1,6 +1,12 @@
 # programit_spring_course
 Final version
 # To fill database
+## Open de phpMyAdmin vanuit XAMP
+## Klik op de database 'spring_test'
+## Klik op SQL ergens bovenaan de pagina
+## Kopieer onderstaande regels in 1x en plak die in het SQL vak
+## Klik rechtsonder op GO
+
 INSERT INTO `student` (`id`, `firstname`, `lastname`, `studie_richting`) VALUES (NULL, 'Bilbo', 'Baggins', 'Cooking'), (NULL, 'Jinn', 'Erso', 'Demolition');
 
 INSERT INTO `student` (`id`, `firstname`, `lastname`, `studie_richting`) VALUES (NULL, 'Isaac', 'Newton', 'Natuurkunde'), (NULL, 'James', 'Maxwell', 'Electrotechniek');
